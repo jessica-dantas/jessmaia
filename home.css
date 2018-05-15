@@ -1,0 +1,33 @@
+body {
+  background: white;
+  text-align: center;
+
+}
+
+
+h1 {
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;  font-size: 20pt;
+  font-size: 50pt;
+  color: black;
+}
+h2 {
+  text-align: center;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 18pt;
+  color: gray;
+}
+h3 {
+  text-align: center;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 13pt;
+  color: gray;
+}
+a {
+
+  font-family: 'Quantico'  font-size: 20spt;
+  color: #9B8FFF; 
+  text-decoration: none;
+}
+a:hover {
+  color: gray;

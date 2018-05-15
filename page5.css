@@ -1,0 +1,140 @@
+body{
+  background-image:("photoone.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
+h1 {
+
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 200px;
+  font-style: normal;
+	font-variant: normal;
+	font-weight: 450;
+	line-height: 26.4px;
+  position: absolute;
+  left: 50px;
+  color: white;
+}
+
+
+h2 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 40px;
+  font-style: normal;
+	font-variant: normal;
+	font-weight: 450;
+  color: white;
+  margin-top: 270px;
+  margin-bottom: 100px;
+  position: absolute;
+  left: 62px;
+
+}
+
+h3 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 40px;
+  font-style: normal;
+	font-variant: normal;
+	font-weight: 450;
+  color: white;
+  margin-top: 340px;
+  margin-bottom: 100px;
+  position: absolute;
+  left: 62px;;
+
+}
+
+h4 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 40px;
+  font-style: normal;
+	font-variant: normal;
+	font-weight: 450;
+  color: white;
+  margin-top: 410px;
+  margin-bottom: 100px;
+  position: absolute;
+  left: 62px;;
+
+}
+
+h5 {
+
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 200px;
+  font-style: normal;
+	font-variant: normal;
+	font-weight: 450;
+	line-height: 26.4px;
+  position: absolute;
+  margin-top: 560px;
+  left: 50px;
+  color: white;
+}
+
+
+h1 a:link {
+    text-decoration: none;
+    color: white
+}
+
+h1 a:visited {
+  text-decoration: none;
+    color: white;
+}
+
+h2 a:link {
+  text-decoration: none;
+  color: white
+
+}
+
+h2 a:visited {
+  text-decoration: none;
+  color: white;
+
+}
+
+h3 a:link {
+  text-decoration: none;
+  color: white
+
+}
+
+h3 a:visited {
+  text-decoration: none;
+  color: white;
+
+}
+
+
+h4 a:link {
+  text-decoration: none;
+  color: white
+
+}
+
+h4 a:visited {
+  text-decoration: none;
+  color: white;
+
+}
+
+
+h5 a:link {
+  text-decoration: underline;
+  color: white
+
+}
+
+h5 a:visited {
+  text-decoration: underline;
+  color: white;
+
+}

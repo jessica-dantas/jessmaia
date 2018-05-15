@@ -1,0 +1,47 @@
+
+
+body{
+  background-image:("one.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
+h1 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 200px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 450;
+  line-height: 26.4px;
+  position: absolute;
+  left: 50px;
+  color: white;
+}
+
+.text {
+  font-family: "times new roman";
+  font-size: 18px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 450;
+  line-height: 30px;
+  position: absolute;
+  left: 100px;
+  color: white;
+  margin-left:30%;
+  margin-top: 10%;
+}
+
+  a:link {
+    text-decoration: none;
+    color: white;
+
+}
+
+a:visited {
+    color: white;
+}

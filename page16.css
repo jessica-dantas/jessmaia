@@ -1,0 +1,33 @@
+
+
+body{
+  background-image:("photoone.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
+h1 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 200px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 450;
+  line-height: 26.4px;
+  position: absolute;
+  left: 50px;
+  color: white;
+}
+
+  a:link {
+    text-decoration: underline;
+    color: white;
+
+}
+
+a:visited {
+    color: white;
+}

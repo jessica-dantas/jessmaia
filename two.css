@@ -1,0 +1,265 @@
+*{
+	margin-right: auto;
+	margin-left: auto;
+}
+html {
+	background-color: black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.wrapper{
+    width: 960px;
+    margin:auto;
+}
+
+li{
+	display: inline;
+	margin-top: 10px;
+}
+
+li a{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: 'Open Sans',sans-serif;
+    -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+    -o-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+    text-transform: uppercase;
+    font-weight: 400;
+    padding:15px;
+}
+
+li a:hover{
+    background-color: gray;
+    color: white;
+    padding: 15px;
+}
+
+.footerContent{
+    padding: 20px;
+}
+
+.footerCopyright{
+    background-color: gray;
+}
+
+.footerText{
+	font-size: 10px;
+    color: #fff;
+	padding: 20px;
+}
+
+#subpageTop{
+    margin-left:auto;
+    margin-right: auto;
+}
+
+#wrapper {
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	background-color: black;
+}
+#footer {
+	clear: both;
+    background-color: #42484d;
+    margin-top: 0px;
+}
+.contentRight {
+	float: right;
+	width: 507px;
+}
+#contentWrapper {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: gray;
+	float: left;
+    padding-bottom: 30px;
+}
+.contentLeft {
+	width: 439px;
+	float: left;
+}
+
+.subpageHeader{
+	font-family: open-sans;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 40px;
+	color: #fff;
+    padding: 40px;
+}
+
+h1{
+	width: 100%;
+	font-family: open-sans;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 40px;
+	color: #FF675B;
+}
+
+#navBar {
+	width: 100%;
+	background-color: gray
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-bottom: 15px;
+	margin-top: 40px;
+	left: auto;
+	right: auto;
+	float: left;
+	margin-bottom: 40px;
+}
+
+.headerPhone{
+    float: right;
+}
+
+#columns{
+    float: left;
+    margin-right: 3px;
+    margin-left: 3px;
+}
+
+#subfooter{
+    clear: both;
+    background-color: gray;
+    width: 100%;
+    padding: 20px;
+    margin-left: 0px;
+	float: left;
+}
+#header {
+	background-color: black;
+}
+#navBar ul {
+	margin-left: auto;
+	margin-right: auto;
+	left: 50%;
+	right: 50%;
+}
+.navLeft {
+	float: left;
+	clear: both;
+	display: block;
+}
+.textLogo {
+	margin-top: 40px;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 50px;
+}
+#headline {
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	background-color: #FFFFFF;
+	margin-top: -4px;
+}
+#headline h1 {
+	font-family: open-sans;
+	font-style: normal;
+	font-weight: 300;
+	color: #000000;
+}
+#contentSize {
+	width: 960px;
+	margin-bottom: 40px;
+}
+
+.containerFooter{
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.leftFooter{
+	float: left;
+	margin:10px;
+	width: 300px;
+	border-right:#333;
+}
+
+.middleFooter{
+	float: left;
+	margin: 10px;
+	width: 300px;
+}
+
+.rightFooter{
+	float: right;
+	margin: 10px;
+	width:300px;
+}
+
+.button h4{
+	padding-top: 3px;
+	Padding-bottom: 3px;
+	padding-right: 6px;
+	padding-left: 6px;
+	border-radius: 5px;
+	background-color: #777;
+	color: #fff;
+}
+
+#content{
+	background-color:
+}
+
+#contact{
+    margin-top: 20px;
+    clear:both;
+    padding: 20px;
+}
+
+#contact h1{
+    text-align: center;
+}
+
+input{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 3px;
+    font-size: 18px;
+    background-color: white
+    font-family: 'Open Sans', sans-serif;
+    color: #4BAAD3;
+    border: none;
+    outline: none;
+    margin-bottom: 10px;
+}
+
+form{
+    font-family: 'Open Sans', sans-serif;
+}
+
+button{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #FF675B;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+button:hover{
+    background-color: black;
+}

@@ -1,0 +1,32 @@
+body {
+  background: black;
+  text-align: center;
+}
+
+
+h1 {
+  text-align: center;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 40pt;
+  color: white;
+}
+h2 {
+  text-align: center;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 40pt;
+  color: gray;
+}
+h3 {
+  text-align: center;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 13pt;
+  color: gray;
+}
+a {
+
+  font-family: 'Quantico'  font-size: 20spt;
+  color: gray;
+  text-decoration: none;
+}
+a:hover {
+  color: pink;

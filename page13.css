@@ -1,0 +1,44 @@
+body {
+  background: black;
+  text-align: center;
+}
+#video-bg {
+  position: center;
+  left: 30;
+  top: 30;
+  min-width: 640px;
+  min-height: 360px;
+  width: 640px;
+  height: 360px;
+  z-index: -100;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 20pt;
+  color: white;
+}
+h2 {
+  text-align: center;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 15pt;
+  color: white;
+}
+h3 {
+  text-align: center;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 13pt;
+  color: white;
+
+}
+a {
+  text-align: center;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 10pt;
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
